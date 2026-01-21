@@ -31,7 +31,7 @@ Sou um profissional da área de desenvolvimento, focado em criar soluções efic
 
 ## 📈 GitHub Stats
 
-![Allan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanDEV02&show_icons=true&theme=default)
+![Allan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanDEV02&show_icons=true&theme=dark)
 
 
 ---
